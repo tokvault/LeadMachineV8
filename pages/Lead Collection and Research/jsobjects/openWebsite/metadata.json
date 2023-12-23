@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "openWebsite",
+    "pageId": "Lead Collection and Research",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Lead Collection and Research_openWebsite",
+  "deleted": false,
+  "gitSyncId": "658533c0933fec774bf5e795_65868f01ffc3cc33b2cae072"
+}

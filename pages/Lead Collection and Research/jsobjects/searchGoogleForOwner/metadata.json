@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "searchGoogleForOwner",
+    "pageId": "Lead Collection and Research",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Lead Collection and Research_searchGoogleForOwner",
+  "deleted": false,
+  "gitSyncId": "658533c0933fec774bf5e795_65858c8d6dfbfb3fb71455b3"
+}

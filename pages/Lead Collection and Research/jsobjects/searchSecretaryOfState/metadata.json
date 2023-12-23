@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "searchSecretaryOfState",
+    "pageId": "Lead Collection and Research",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Lead Collection and Research_searchSecretaryOfState",
+  "deleted": false,
+  "gitSyncId": "658533c0933fec774bf5e795_6585899de8e48d1c5816edaf"
+}
